@@ -6,7 +6,11 @@
 
     <groupId>org.lyfuber</groupId>
     <artifactId>spring-cloud-vehicle-monitoring</artifactId>
+    <packaging>pom</packaging>
     <version>1.0.0.BUILD-SNAPSHOT</version>
+    <modules>
+        <module>location-service</module>
+    </modules>
 
 
 </project>
